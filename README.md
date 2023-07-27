@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sasa_x" target="blank"><img src="https://img.shields.io/twitter/follow/sasa_x?logo=twitter&style=for-the-badge" alt="sasa_x" /></a> </p>
 
-- 🌱 I’m currently learning **Institute of Java Software Engineering**
+- 🌱 I’m currently learning **Java,Mysql**
 
 - 💬 Ask me about **Java,Mysql,HTML,Python**
 

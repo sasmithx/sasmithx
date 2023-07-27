@@ -1,6 +1,6 @@
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 <div align="center">
-<h1 align="center">Hi 👋, I'm Sasmith </h1>
+<h1 align="center">Hi 👋, I'm Sasmith Manawadu</h1>
 <h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 

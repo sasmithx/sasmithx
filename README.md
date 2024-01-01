@@ -10,10 +10,10 @@
 </div>
 <div align="center">
 <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=600&lines=I'm+Sasmith+Manawadu+;Welcome+to+My+Profile!"
-         alt="Title"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&color=E8E8E8&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+Sasmith+Manawadu+;Welcome+to+My+Profile!"
 </div>
-<h3 align="center">Software Engineer</h3>
+<hr>    
+<h3 align="center">Aspiring Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasmithx&label=Profile%20views&color=0e75b6&style=flat" alt="sasmithx" /> </p>

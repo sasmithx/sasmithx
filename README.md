@@ -1,3 +1,10 @@
+<div align="center">
+    
+![header](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<div align="center">
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 <div align="center">
 <h1 align="center">Hi 👋, I'm Sasmith Manawadu</h1>

@@ -31,4 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasmithx&show_icons=true&locale=en" alt="sasmithx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasmithx&" alt="sasmithx" /></p>
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=sasmithx&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=sasmithx&theme=react-dark"/>
+</div>

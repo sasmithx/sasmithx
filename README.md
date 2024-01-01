@@ -4,12 +4,12 @@
 
 </div>
 
-<div align="center">
-![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
-<div align="center">
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png"/>
+</p>
 <h1 align="center">Hi 👋, I'm Sasmith Manawadu</h1>
 <h3 align="center">Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasmithx&label=Profile%20views&color=0e75b6&style=flat" alt="sasmithx" /> </p>
 

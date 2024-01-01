@@ -40,5 +40,4 @@
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=sasmithx&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=sasmithx&theme=react-dark"/>
-</div>
+ </div>

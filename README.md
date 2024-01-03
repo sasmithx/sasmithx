@@ -8,9 +8,9 @@
 <img src = "https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png"/>
 </p>
 </div>
-<div align="left">
+<div align="center">
 <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&color=E8E8E8&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+Sasmith+Manawadu+;Welcome+to+My+Profile!"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&color=E8E8E8&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+Sasmith+Manawadu+;Welcome+to+My+Profile!">
 </div>
 <hr>
 <h3 align="center">Software Engineer</h3>

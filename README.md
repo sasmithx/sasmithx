@@ -10,7 +10,7 @@
 </div>
 <div align="center">
 <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&color=E8E8E8&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+Sasmith+Manawadu+;Welcome+to+My+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&color=E8E8E8&size=50&center=true&vCenter=true&height=60&width=618&lines= Hi,+I'm+Sasmith+Manawadu+;Welcome+to+My+Profile!">
 </div>
 <hr>
 <h3 align="center">Software Engineer</h3>

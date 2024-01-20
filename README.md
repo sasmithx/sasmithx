@@ -26,8 +26,6 @@
 
 - 📫 How to reach me **888sasmithmanawadu@gmail.com**
 
-- ⚡ Fun fact **I am Funny and Loving ⚡**
-
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">

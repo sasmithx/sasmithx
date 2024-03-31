@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Java,Mysql**
 
-- 💬 Ask me about **Java,Mysql,HTML,Python**
+- 💬 Ask me about **Java,Mysql,HTML,CSS,JavaScript,Python**
 
 - 📫 How to reach me **888sasmithmanawadu@gmail.com**
 

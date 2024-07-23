@@ -9,8 +9,8 @@
 </p>
 </div>
 <div align="center">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/gayanukabulegoda?style=social"> &nbsp;&nbsp; 
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/gayanukabulegoda?style=social" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/sasmithx?style=social"> &nbsp;&nbsp; 
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/sasmithx?style=social" />
 </div>
 
 <div align="center">

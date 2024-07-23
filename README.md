@@ -55,8 +55,9 @@
 <a href="https://nodejs.org/en" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://react.dev/" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" width="40" height="40"/> </a>    
-<a href="https://spring.io/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Angular" width="40" height="40"/> </a>    
+<a href="https://spring.io/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring" width="40" height="40"/> </a>        
 <a href="https://angular.dev/" rel="noreferrer"> <img src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" alt="Angular" width="40" height="40"/> </a>    
 </p>
 

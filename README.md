@@ -34,8 +34,7 @@
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.com/invite/sasmithx" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="sasmith manawadu" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" alt="sasmith manawadu" height="30" width="40" /></a>    
+<a href="https://discord.com/invite/sasmithx" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="sasmith manawadu" height="30" width="40" /></a>    
 <a href="https://linkedin.com/in/sasmith manawadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasmith manawadu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22008286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22008286" height="30" width="40" /></a>
 </p>

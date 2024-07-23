@@ -9,6 +9,11 @@
 </p>
 </div>
 <div align="center">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/gayanukabulegoda?style=social"> &nbsp;&nbsp; 
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/gayanukabulegoda?style=social" />
+</div>
+
+<div align="center">
 <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&color=E8E8E8&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi+,+I'm+Sasmith+Manawadu+;Welcome+to+My+Profile!">
 </div>

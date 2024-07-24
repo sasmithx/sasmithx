@@ -61,7 +61,8 @@
 <a href="https://spring.io/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring" width="40" height="40"/> </a>        
 <a href="https://angular.dev/" rel="noreferrer"> <img src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" alt="Angular" width="40" height="40"/> </a>
 <a href="https://vitejs.dev/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="Angular" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="Angular" width="40" height="40"/> </a>    
+<a href="https://www.mongodb.com/" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="Angular" width="40" height="40"/> </a>
+<a href="https://vuejs.org/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349557/vue.svg" alt="Vue" width="40" height="40"/> </a>    
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasmithx&theme=algolia&show_icons=true&locale=en&layout=compact" alt="sasmithx" /></p>

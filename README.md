@@ -1,3 +1,7 @@
+ <p align="center">
+  <img  width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
+</p>
+
 <div align="center">
     
 ![header](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)

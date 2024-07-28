@@ -25,11 +25,11 @@
 
 <p align="left"> <a href="https://twitter.com/sasa_x" target="blank"><img src="https://img.shields.io/twitter/follow/sasa_x?logo=twitter&style=for-the-badge" alt="sasa_x" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering**
+- 💻 I’m currently learning **Software Engineering**
 
-- 💬 Ask me about **Java,Mysql,HTML,CSS,JavaScript,Python**
+- 🔥 Ask me about **Java,Mysql,HTML,CSS,JavaScript,Python**
 
-- 📫 How to reach me **888sasmithmanawadu@gmail.com**
+- 🌿 How to reach me **888sasmithmanawadu@gmail.com**
 
  
 <h3 align="left">Connect with me:</h3>

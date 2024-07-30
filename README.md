@@ -77,8 +77,6 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=sasmithx&theme=algolia&background=0d1117&hide_border=true" />
  </div>
 
- <img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
-
  <p align="center">
   <img  width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>

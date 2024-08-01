@@ -19,7 +19,7 @@
 </div>
 <hr>
 <h3 align="center">Aspiring Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" width="300" height="300px" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/eb0f2c114445403.603bc566bd64d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasmithx&label=Profile%20views&color=0e75b6&style=flat" alt="sasmithx" /> </p>
 

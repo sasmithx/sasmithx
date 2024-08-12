@@ -67,12 +67,12 @@
 <a href="https://vuejs.org/" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue" width="40" height="40"/> </a>    
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasmithx&theme=algolia&show_icons=true&locale=en&layout=compact" alt="sasmithx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasmithx&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="sasmithx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasmithx&theme=algolia&show_icons=true&locale=en" alt="sasmithx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasmithx&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="sasmithx" /></p>
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=sasmithx&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasmithx&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
  </div>
 
  <p align="center">

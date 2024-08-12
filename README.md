@@ -72,7 +72,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasmithx&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="sasmithx" /></p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasmithx&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasmithx&theme=radical&hide_border=true" />
  </div>
 
  ### ✍️ Random Dev Quote

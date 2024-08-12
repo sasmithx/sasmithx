@@ -23,8 +23,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasmithx&label=Profile%20views&color=0e75b6&style=flat" alt="sasmithx" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sasa_x" target="blank"><img src="https://img.shields.io/twitter/follow/sasa_x?logo=twitter&style=for-the-badge" alt="sasa_x" /></a> </p>
-
 - 💻 I’m currently learning **Software Engineering**
 
 - 🔥 Ask me about **Java,Mysql,HTML,CSS,JavaScript,Python**

@@ -67,16 +67,16 @@
 <a href="https://vuejs.org/" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue" width="40" height="40"/> </a>    
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasmithx&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="sasmithx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasmithx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="sasmithx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasmithx&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="sasmithx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasmithx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="sasmithx" /></p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasmithx&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasmithx&theme=tokyonight&hide_border=true" />
  </div>
 
  ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
  <p align="center">
   <img  width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>

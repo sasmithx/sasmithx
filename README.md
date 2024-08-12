@@ -73,7 +73,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasmithx&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" /></p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasmithx&theme=algolia&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasmithx&theme=algolia&hide_border=true" />
  </div>
 
  ### ✍️ Random Dev Quote

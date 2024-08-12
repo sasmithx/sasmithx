@@ -75,6 +75,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasmithx&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
  </div>
 
+ ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
  <p align="center">
   <img  width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>

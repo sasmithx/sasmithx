@@ -21,7 +21,7 @@
 <h3 align="center">Aspiring Software Engineer</h3>
 <img align="right" alt="Coding" width="250" height="300px" src="https://github.com/sasmithx/sasmithx/blob/main/TH1w.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasmithx&label=Profile%20views&color=0e75b6&style=flat" alt="sasmithx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasmithx&label=Profile%20views&color=000000&style=for-the-badge" alt="sasmithx" /> </p>
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sasmithx)
 

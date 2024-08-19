@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&color=E8E8E8&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi+,+I'm+Sasmith+Manawadu+;Welcome+to+My+Profile!">
 </div>
 <hr>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="450" height="300px" src="https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasmithx&label=Profile%20views&color=000000&style=for-the-badge" alt="sasmithx" /> </p>

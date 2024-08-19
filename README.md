@@ -19,7 +19,7 @@
 </div>
 <hr>
 <h3 align="center">Aspiring Software Engineer</h3>
-<!-- <img align="right" alt="Coding" width="250" height="300px" src="https://github.com/sasmithx/sasmithx/blob/main/TH1w.gif"> -->
+<img align="right" alt="Coding" width="450" height="300px" src="https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasmithx&label=Profile%20views&color=000000&style=for-the-badge" alt="sasmithx" /> </p>
 

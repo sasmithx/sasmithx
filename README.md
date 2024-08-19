@@ -69,6 +69,8 @@
 <a href="https://vuejs.org/" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue" width="40" height="40"/> </a>    
 </p>
 
+<h3 align="left">GitHub Stats:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasmithx&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sasmithx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasmithx&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" /></p>

@@ -19,7 +19,7 @@
 </div>
 <hr>
 <h3 align="center">Software Engineer</h3>
-<img align="right" alt="Coding" width="300" height="300px" src="https://github.com/sasmithx/sasmithx/blob/main/hrPro.png">
+<img align="right" alt="Coding" width="300" height="300px" src="https://github.com/sasmithx/sasmithx/blob/main/mascotPro.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasmithx&label=Profile%20views&color=000000&style=for-the-badge" alt="sasmithx" /> </p>
 

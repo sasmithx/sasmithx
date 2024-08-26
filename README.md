@@ -42,34 +42,21 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/css_intro.asp"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/js/"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="html5" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a> 
-    <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" alt="lightroom" width="40" height="40"/> </a>
-    <a href="https://helpx.adobe.com/xd/get-started.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="xd" width="40" height="40"/>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="unity" width="40" height="40"/> </a>
-</a> <a href="https://www.jetbrains.com/webstorm/promo/?source=google&medium=cpc&campaign=APAC_en_ASIA_WebStorm_Branded&term=webstorm&content=523833970745&gad_source=1" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="unity" width="40" height="40"/> </a>  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://ubuntu.com/tutorials/command-line-for-beginners#1-overview" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" alt="unity" width="40" height="40"/> </a> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="ubuntu" width="40" height="40"/> </a>
-<a href="https://hibernate.org/" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> </a>
-<a href="https://nodejs.org/en" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://react.dev/" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com/" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" width="40" height="40"/> </a>
-<a href="https://quasar.dev/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374024/quasar.svg" alt="Quasar" width="40" height="40"/> </a>
-<a href="" rel="noreferrer"> <img src="https://www.ijse.lk/images/gdse/tech-stack/sem3/javaee.png" alt="Tomcat" width="40" height="40"/> </a>    
-<a href="https://tomcat.apache.org/" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" alt="Tomcat" width="40" height="40"/> </a>    
-<a href="https://www.postman.com/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Angular" width="40" height="40"/> </a>    
-<a href="https://spring.io/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring" width="40" height="40"/> </a>
-<a href="" rel="noreferrer"> <img src="https://www.ijse.lk/images/gdse/tech-stack/sem3/spring-data.png" alt="Spring JPA" width="40" height="40"/> </a>
-<a href="" rel="noreferrer"> <img src="https://www.ijse.lk/images/gdse/tech-stack/sem3/spring-boot.png" alt="Spring Boot" width="40" height="40"/> </a>    
-<a href="https://angular.dev/" rel="noreferrer"> <img src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" alt="Angular" width="40" height="40"/> </a>
-<a href="https://vitejs.dev/" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374167/vite.svg" alt="Angular" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="Angular" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue" width="40" height="40"/> </a>    
-</p>
+<div align="left">
+
+| Title                          | Icon                                                                                                             |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Programming Languages          | <img src="https://skillicons.dev/icons?i=java,python,kotlin,dart"/>                                                           |
+| Front End                      | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,materialui,angular,vite,vue" />                  |
+| Back End                       | <img src="https://skillicons.dev/icons?i=java,python,spring,hibernate,nodejs,express,kotlin" />                                |
+| Mobile Application Development | <img src="https://skillicons.dev/icons?i=react,flutter,dart"/>                                                       |
+| Databases                      | <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>                                                        |
+| Framworks & Libraries          | <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,bootstrap,react,angular,vue,tailwind,jquery"/>      |
+| IDE & Tools                          | <img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,visualstudio,androidstudio,figma,postman,maven"/>                        |
+| Version Control                | <img src="https://skillicons.dev/icons?i=git,github"/>                                                    |
+| Operating System                         | <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows"/>                                                            |
+
+</div>
 
 <h3 align="left">GitHub Stats:</h3>
 

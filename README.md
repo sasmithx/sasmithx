@@ -51,11 +51,11 @@
 | Back End                       | <img src="https://skillicons.dev/icons?i=java,python,spring,hibernate,nodejs,express,kotlin" />                                |
 | Mobile Application Development | <img src="https://skillicons.dev/icons?i=react,flutter,dart"/>                                                       |
 | Databases                      | <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>                                                        |
-| Framworks & Libraries          | <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,bootstrap,react,angular,vue,tailwind,jquery"/>      |
+| Framworks & Libraries          | <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,bootstrap,react,angular,vue,tailwind"/>      |
 | IDE & Tools                          | <img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,visualstudio,androidstudio,bash,powershell,qt,postman,maven"/>                        |
-| Version Control                | <img src="https://skillicons.dev/icons?i=git,github"/>                                                    |
+| Version Control                | <img src="https://skillicons.dev/icons?i=git,github,gitlab"/>                                                    |
 | Operating System                         | <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows"/>                                                            |
-| Others                        | <img src="https://skillicons.dev/icons?i=unity,figma,ps,ai,xd,notion,obsidian"/>                                                            |
+| Others                        | <img src="https://skillicons.dev/icons?i=unity,firebase,figma,ps,ai,xd,notion,obsidian"/>                                                            |
 
 </div>
 

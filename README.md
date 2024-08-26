@@ -55,7 +55,7 @@
 | IDE & Tools                          | <img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,visualstudio,androidstudio,bash,powershell,qt,postman,maven"/>                        |
 | Version Control                | <img src="https://skillicons.dev/icons?i=git,github"/>                                                    |
 | Operating System                         | <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows"/>                                                            |
-| Others                        | <img src="https://skillicons.dev/icons?i=unity,figma,ps,ai,xd,notion,obsidian,discord,"/>                                                            |
+| Others                        | <img src="https://skillicons.dev/icons?i=unity,figma,ps,ai,xd,notion,obsidian"/>                                                            |
 
 </div>
 

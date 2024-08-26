@@ -52,9 +52,10 @@
 | Mobile Application Development | <img src="https://skillicons.dev/icons?i=react,flutter,dart"/>                                                       |
 | Databases                      | <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>                                                        |
 | Framworks & Libraries          | <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,bootstrap,react,angular,vue,tailwind,jquery"/>      |
-| IDE & Tools                          | <img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,visualstudio,androidstudio,figma,postman,maven"/>                        |
+| IDE & Tools                          | <img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,visualstudio,androidstudio,bash,powershell,qt,postman,maven"/>                        |
 | Version Control                | <img src="https://skillicons.dev/icons?i=git,github"/>                                                    |
-| Operating System                         | <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows"/>                                                            |
+| Operating System                         | <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows"/>                                                            |
+| Others                        | <img src="https://skillicons.dev/icons?i=unity,figma,ps,ai,xd,notion,obsidian,discord,"/>                                                            |
 
 </div>
 

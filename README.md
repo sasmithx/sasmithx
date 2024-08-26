@@ -41,10 +41,6 @@
 <a href="https://medium.com/@888sasmithmanawadu" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Ra88BZ-CSTovFS2ZSURBgg.png" alt="22008286" height="30" width="150" /></a>    
 </p>
 
-<p align="center">
-  <img  width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
 
@@ -62,10 +58,6 @@
 | Others                        | <img src="https://skillicons.dev/icons?i=unity,figma,ps,ai,xd,notion,obsidian"/>                                                            |
 
 </div>
-
-<p align="center">
-  <img  width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</p>
 
 <h3 align="left">GitHub Stats:</h3>
 

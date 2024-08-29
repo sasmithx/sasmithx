@@ -37,7 +37,8 @@
 <a href="https://discord.com/invite/sasmithx" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="sasmith manawadu" height="30" width="40" /></a>    
 <a href="https://linkedin.com/in/sasmith manawadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasmith manawadu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22008286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22008286" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/sasmithx" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png"  height="40" width="40" /></a>    
+<a href="https://www.hackerrank.com/profile/sasmithx" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png"  height="40" width="40" /></a>
+<a href="https://leetcode.com/u/sasmithx/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?20190719232508"  height="40" width="40" /></a>    
 <a href="https://hashnode.com/@Sasmithx" target="blank"><img align="center" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="22008286" height="30" width="40" /></a>
 <a href="https://medium.com/@888sasmithmanawadu" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Ra88BZ-CSTovFS2ZSURBgg.png" alt="22008286" height="30" width="150" /></a>    
 </p>

@@ -27,7 +27,7 @@
 
 - 💻 I’m currently learning **Software Engineering**
 
-- 🔥 Ask me about **Java,Python,HTML,CSS,JavaScript,TypeScript**
+- 🔥 Ask me about **Java,Python,HTML,CSS,JavaScript**
 
 - 🌿 How to reach me **888sasmithmanawadu@gmail.com**
 

@@ -63,9 +63,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasmithx&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sasmithx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasmithx&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="sasmithx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasmithx&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasmithx&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" /></p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasmithx&theme=algolia&hide_border=true" />

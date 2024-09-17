@@ -45,21 +45,50 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-
-| Title                          | Icon                                                                                                             |
-|--------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Programming Languages          | <img src="https://skillicons.dev/icons?i=java,python,kotlin,dart"/>                                                           |
-| Front End                      | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,materialui,angular,vite,vue" />                  |
-| Back End                       | <img src="https://skillicons.dev/icons?i=java,python,spring,hibernate,nodejs,express,kotlin" />                                |
-| Mobile Application Development | <img src="https://skillicons.dev/icons?i=react,flutter,dart"/>                                                       |
-| Databases                      | <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>                                                        |
-| Framworks & Libraries          | <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,bootstrap,react,angular,vue,tailwind"/>      |
-| IDE & Tools                          | <img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,visualstudio,androidstudio,bash,powershell,qt,postman,maven"/>                        |
-| Version Control                | <img src="https://skillicons.dev/icons?i=git,github,gitlab"/>                                                    |
-| Operating System                         | <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows"/>                                                            |
-| Others                        | <img src="https://skillicons.dev/icons?i=unity,firebase,figma,ps,ai,xd,notion,obsidian"/>                                                            |
-
+  <table>
+    <tr>
+      <td><strong>Programming Languages</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=java,python,kotlin,dart" /></td>
+    </tr>
+    <tr>
+      <td><strong>Front End</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,materialui,angular,vite,vue" /></td>
+    </tr>
+    <tr>
+      <td><strong>Back End</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=java,python,spring,hibernate,nodejs,express,kotlin" /></td>
+    </tr>
+    <tr>
+      <td><strong>Mobile Application Development</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=react,flutter,dart" /></td>
+    </tr>
+    <tr>
+      <td><strong>Databases</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=mysql,mongodb" /></td>
+    </tr>
+    <tr>
+      <td><strong>Frameworks & Libraries</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,bootstrap,react,angular,vue,tailwind" /></td>
+    </tr>
+    <tr>
+      <td><strong>IDE & Tools</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,visualstudio,androidstudio,bash,powershell,qt,postman,maven" /></td>
+    </tr>
+    <tr>
+      <td><strong>Version Control</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=git,github,gitlab" /></td>
+    </tr>
+    <tr>
+      <td><strong>Operating System</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows" /></td>
+    </tr>
+    <tr>
+      <td><strong>Others</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=unity,firebase,figma,ps,ai,xd,notion,obsidian" /></td>
+    </tr>
+  </table>
 </div>
+
 
 <h3 align="left">GitHub Stats:</h3>
 

@@ -52,11 +52,11 @@
     </tr>
     <tr>
       <td><strong>Front End</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,materialui,angular,vite,vue" /></td>
+      <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,materialui,angular,wordpress,vite,vue,nestjs" /></td>
     </tr>
     <tr>
       <td><strong>Back End</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=java,python,spring,hibernate,nodejs,express,kotlin" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java,python,spring,hibernate,nodejs,express,kotlin,flask" /></td>
     </tr>
     <tr>
       <td><strong>Mobile Application Development</strong></td>
@@ -72,7 +72,7 @@
     </tr>
     <tr>
       <td><strong>IDE & Tools</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,visualstudio,androidstudio,bash,powershell,qt,postman,maven" /></td>
+      <td><img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,visualstudio,androidstudio,bash,powershell,qt,postman,maven,anaconda,pytorch" /></td>
     </tr>
     <tr>
       <td><strong>Version Control</strong></td>

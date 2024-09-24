@@ -52,7 +52,7 @@
     </tr>
     <tr>
       <td><strong>Front End</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,materialui,angular,wordpress,vite,vue,nestjs" /></td>
+      <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,materialui,angular,wordpress,vite,vue,nextjs,nestjs" /></td>
     </tr>
     <tr>
       <td><strong>Back End</strong></td>

@@ -56,7 +56,7 @@
     </tr>
     <tr>
       <td><strong>Back End</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=java,python,spring,hibernate,nodejs,express,kotlin,flask" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java,python,spring,hibernate,nodejs,express,kotlin,gradle,flask" /></td>
     </tr>
     <tr>
       <td><strong>Mobile Application Development</strong></td>

@@ -48,7 +48,7 @@
   <table>
     <tr>
       <td><strong>Programming Languages</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=java,python,kotlin,dart,arduino" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java,python,kotlin,dart" /></td>
     </tr>
     <tr>
       <td><strong>Front End</strong></td>
@@ -72,7 +72,7 @@
     </tr>
     <tr>
       <td><strong>IDE & Tools</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,visualstudio,androidstudio,bash,powershell,qt,postman,maven,anaconda,pytorch" /></td>
+      <td><img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,visualstudio,androidstudio,bash,powershell,arduino,qt,postman,maven,anaconda,pytorch" /></td>
     </tr>
     <tr>
       <td><strong>Version Control</strong></td>

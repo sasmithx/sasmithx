@@ -48,7 +48,7 @@
   <table>
     <tr>
       <td><strong>Programming Languages</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=java,python,kotlin,dart" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java,python,kotlin,dart,arduino" /></td>
     </tr>
     <tr>
       <td><strong>Front End</strong></td>

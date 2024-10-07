@@ -74,14 +74,14 @@
       <td><strong>IDE & Tools</strong></td>
       <td><img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,visualstudio,androidstudio,bash,powershell,arduino,qt,postman,maven,anaconda,pytorch" /></td>
     </tr>
-    <tr>
+<!--     <tr>
       <td><strong>Version Control</strong></td>
       <td><img src="https://skillicons.dev/icons?i=git,github,gitlab" /></td>
     </tr>
     <tr>
       <td><strong>Operating System</strong></td>
       <td><img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows" /></td>
-    </tr>
+    </tr> -->
 <!--     <tr>
       <td><strong>Others</strong></td>
       <td><img src="https://skillicons.dev/icons?i=unity,firebase,figma,ps,ai,xd,notion,obsidian" /></td>

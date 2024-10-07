@@ -66,10 +66,10 @@
       <td><strong>Databases</strong></td>
       <td><img src="https://skillicons.dev/icons?i=mysql,mongodb" /></td>
     </tr>
-    <tr>
+<!--     <tr>
       <td><strong>Frameworks & Libraries</strong></td>
       <td><img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,bootstrap,react,angular,vue,tailwind" /></td>
-    </tr>
+    </tr> -->
     <tr>
       <td><strong>IDE & Tools</strong></td>
       <td><img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,visualstudio,androidstudio,bash,powershell,arduino,qt,postman,maven,anaconda,pytorch" /></td>

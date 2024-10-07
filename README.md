@@ -56,7 +56,7 @@
     </tr>
     <tr>
       <td><strong>Back End</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=java,python,spring,hibernate,nodejs,express,kotlin,gradle,flask" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java,python,spring,hibernate,nodejs,express,kotlin,firebase,gradle,flask" /></td>
     </tr>
     <tr>
       <td><strong>Mobile Application Development</strong></td>
@@ -82,10 +82,10 @@
       <td><strong>Operating System</strong></td>
       <td><img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows" /></td>
     </tr>
-    <tr>
+<!--     <tr>
       <td><strong>Others</strong></td>
       <td><img src="https://skillicons.dev/icons?i=unity,firebase,figma,ps,ai,xd,notion,obsidian" /></td>
-    </tr>
+    </tr> -->
   </table>
 </div>
 

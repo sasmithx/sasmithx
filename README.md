@@ -72,7 +72,7 @@
     </tr>
     <tr>
       <td><strong>IDE & Tools</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,visualstudio,androidstudio,bash,powershell,arduino,qt,postman,maven,anaconda,pytorch" /></td>
+      <td><img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,visualstudio,androidstudio,bash,powershell,arduino,qt,figma,postman,maven,anaconda,pytorch" /></td>
     </tr>
 <!--     <tr>
       <td><strong>Version Control</strong></td>

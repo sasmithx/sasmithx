@@ -3,10 +3,10 @@
 ![header](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
+<!-- 
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png"/>
-</p>
+</p> -->
 </div>
 <div align="center">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/sasmithx?style=social"> &nbsp;&nbsp; 

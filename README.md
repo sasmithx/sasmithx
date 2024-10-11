@@ -48,7 +48,7 @@
   <table>
     <tr>
       <td><strong>Programming Languages</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=java,python,kotlin,dart" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java,python,c,cs,cpp,kotlin,dart" /></td>
     </tr>
     <tr>
       <td><strong>Front End</strong></td>
@@ -56,7 +56,7 @@
     </tr>
     <tr>
       <td><strong>Back End</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=java,python,spring,hibernate,nodejs,express,kotlin,firebase,gradle,flask" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java,python,c,cs,cpp,spring,hibernate,nodejs,express,kotlin,firebase,gradle,flask" /></td>
     </tr>
     <tr>
       <td><strong>Mobile Application Development</strong></td>

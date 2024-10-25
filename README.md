@@ -40,7 +40,8 @@
   <a href="https://www.hackerrank.com/profile/sasmithx" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=2EC866"></a>
   <a href="https://leetcode.com/u/sasmithx/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=FFA116"></a>
   <a href="https://hashnode.com/@Sasmithx" target="blank"><img src="https://img.shields.io/badge/Hashnode-black?style=for-the-badge&logo=hashnode&logoColor=2962FF"></a>
-  <a href="https://medium.com/@888sasmithmanawadu" target="blank"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"></a>   
+  <a href="https://medium.com/@888sasmithmanawadu" target="blank"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://x.com/Sasmithx8?t=zzSsf5la1d5qf66fxRe17A&s=09" target="blank"><img src="https://img.shields.io/badge/Follow @sasmithx8-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

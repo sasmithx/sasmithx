@@ -66,7 +66,7 @@
     </tr>
     <tr>
       <td><strong>Databases</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=mysql,mongodb" /></td>
+      <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /></td>
     </tr>
     <tr>
       <td><strong>Frameworks & Libraries</strong></td>

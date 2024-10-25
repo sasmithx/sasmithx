@@ -25,9 +25,9 @@
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sasmithx)
 
-- 💻 I’m currently learning **Software Engineering**
+- ⚡ I’m currently learning @ **IJSE - Institute of Software Engineering**
 
-- 🔥 Ask me about **Java,Python,HTML,CSS,JavaScript**
+- 🔥 Ask me about **Software Engineering**
 
 - 🌿 How to reach me **888sasmithmanawadu@gmail.com**
 

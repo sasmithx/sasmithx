@@ -58,11 +58,11 @@
     </tr>
     <tr>
       <td><strong>Back End</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=java,python,c,cs,cpp,spring,hibernate,nodejs,express,kotlin,firebase,gradle,flask" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java,python,c,cs,cpp,spring,hibernate,nodejs,express,kotlin,gradle,flask" /></td>
     </tr>
     <tr>
       <td><strong>Mobile Application Development</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=react,flutter,dart" /></td>
+      <td><img src="https://skillicons.dev/icons?i=react,flutter,dart,kotlin" /></td>
     </tr>
     <tr>
       <td><strong>Databases</strong></td>

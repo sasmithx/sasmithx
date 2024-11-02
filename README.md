@@ -93,6 +93,7 @@
     <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=009639" />
     <img src="https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=9feaf9" />
+    <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
 </p>
 </div>
 

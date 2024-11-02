@@ -91,6 +91,8 @@
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=purple" />
     <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624" />
     <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=009639" />
+    <img src="https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=9feaf9" />
 </p>
 </div>
 

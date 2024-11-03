@@ -89,7 +89,7 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=orange" />
     <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=green" />
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=purple" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624" />
     <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=009639" />

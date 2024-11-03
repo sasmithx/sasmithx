@@ -46,8 +46,12 @@
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<details>
+  <summary>Languages and Tools:</summary>
+ <div align="left">
+ <p align="center">
+  <img  width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>
   <table>
     <tr>
       <td><strong>Programming Languages</strong></td>
@@ -80,6 +84,10 @@
 
   </table>
 </div>
+<p align="center">
+  <img  width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>
+</details>
 
 <br>
 <div align="center">

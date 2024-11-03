@@ -59,11 +59,11 @@
     </tr>
     <tr>
       <td><strong>Front End</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,electron,tailwind,materialui,angular,wordpress,vite,vue,nextjs,nestjs" /></td>
+      <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,electron,tailwind,angular,wordpress,vite,vue,nextjs,laravel,nestjs" /></td>
     </tr>
     <tr>
       <td><strong>Back End</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=java,python,c,cs,cpp,spring,hibernate,nodejs,express,electron,kotlin,gradle,flask" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java,python,c,cs,cpp,spring,hibernate,nodejs,laravel,express,electron,kotlin,gradle,flask" /></td>
     </tr>
     <tr>
       <td><strong>Mobile Application Development</strong></td>

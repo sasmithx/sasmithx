@@ -72,7 +72,7 @@
     </tr>
     <tr>
       <td><strong>Frameworks & Libraries</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,bootstrap,react,angular,vue,tailwind" /></td>
+      <td><img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,bootstrap,react,angular,vue,tailwind,tensorflow" /></td>
     </tr>
     <tr>
       <td><strong>IDE & Tools</strong></td>

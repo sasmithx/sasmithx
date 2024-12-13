@@ -99,7 +99,6 @@
     <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
     <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=purple" />
-    <img src="https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=react-router&logoColor=5ADAFD" />
     <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
     	
     	

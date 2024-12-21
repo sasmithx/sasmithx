@@ -4,9 +4,9 @@
 
 </div>
  
-<!--<p align="center">
+<p align="center">
 <img src = "https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png"/>
-</p> -->
+</p>
 </div>
 <div align="center">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/sasmithx?style=social"> &nbsp;&nbsp; 

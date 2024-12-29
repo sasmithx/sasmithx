@@ -24,6 +24,19 @@
 
 Passionate Software Engineer and Full-Stack Developer, skilled in designing user-friendly front-end interfaces and building robust back-end systems using modern technologies like Spring Boot, React, Node.js,Express.js, and Next.js. With a strong focus on scalability, maintainability, and best practices, I thrive on crafting innovative solutions and staying at the forefront of technology trends to deliver impactful results.
 
+```typescript
+const SasmithManawadu = {
+    location: "Sri Lanka",
+    education: "Software Engineering & Full Stack Development",
+    roles: ["Software Engineer", "Full Stack Developer", "Tech Enthusiast"],
+    currentFocus: ["Web Development", "Cloud Architecture", "System Design"],
+    communities: {
+        member: ["Github Developer Program", "OpenAI Developer"]
+    },
+    lifePhilosophy: "Delivering scalable and impactful solutions to drive innovation"
+};
+```
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasmithx&label=Profile%20views&color=000000&style=for-the-badge" alt="sasmithx" /> </p> -->
 
 <!-- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sasmithx) -->

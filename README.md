@@ -40,7 +40,6 @@ Passionate Software Engineer and Full-Stack Developer, skilled in designing user
   
   
  ## Frameworks and Libraries
- ![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-important?style=for-the-badge&logo=jakarta-ee&logoColor=white)
  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

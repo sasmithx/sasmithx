@@ -13,7 +13,8 @@
   <a href="" target="blank"><img src="https://img.shields.io/badge/Slack-black?style=for-the-badge&logo=slack&logoColor=4A154B"></a>  
   <a href="https://x.com/Sasmithx8?t=zzSsf5la1d5qf66fxRe17A&s=09" target="blank"><img src="https://img.shields.io/badge/Follow @sasmithx8-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />  
-  <a href="888sasmithmanawadu@gmail.com" target=""><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
+  <a href="mailto:888sasmithmanawadu@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail">
   
 </p>
 

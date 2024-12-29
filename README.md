@@ -22,7 +22,7 @@
 
 ## About Me
 
-Passionate Software Engineer and Full-Stack Developer, skilled in designing user-friendly front-end interfaces and building robust back-end systems using modern technologies like Spring Boot, React, Node.js,Express.js, and Next.js. With a strong focus on scalability, maintainability, and best practices, I thrive on crafting innovative solutions and staying at the forefront of technology trends to deliver impactful results.
+Passionate Software Engineer and Full-Stack Developer, skilled in developing user-friendly front-end interfaces and building robust back-end systems using modern technologies like Spring Boot, React, Node.js,Express.js, and Next.js. With a strong focus on scalability, maintainability, and best practices, I thrive on crafting innovative solutions and staying at the forefront of technology trends to deliver impactful results.
 
 ```typescript
 const SasmithManawadu = {
@@ -31,6 +31,7 @@ const SasmithManawadu = {
     roles: ["Software Engineer", "Full Stack Developer", "Tech Enthusiast"],
     currentFocus: ["Web Development", "Cloud Architecture", "System Design"],
     communities: {
+        name: ["Github","OpenAI"],
         member: ["Github Developer Program", "OpenAI Developer"]
     },
     lifePhilosophy: "Delivering scalable and impactful solutions to drive innovation"

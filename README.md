@@ -24,6 +24,12 @@
 
 Passionate Software Engineer and Full-Stack Developer, skilled in developing user-friendly front-end interfaces and building robust back-end systems using modern technologies like Spring Boot, React, Node.js,Express.js, and Next.js. With a strong focus on scalability, maintainability, and best practices, I thrive on crafting innovative solutions and staying at the forefront of technology trends to deliver impactful results.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,idea,python,pycharm,js,ts,tailwind,react,vite,webstorm,vscode,hibernate,mysql,mongodb,linux" />
+  </a>
+</p>
+
 ```typescript
 const SasmithManawadu = {
     location: "Sri Lanka",

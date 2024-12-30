@@ -1,6 +1,6 @@
 <div style="background-color: #0D0D0C; color: white; padding: 20px; border-radius: 10px;">
 
-# Sasmith Manawadu
+## Sasmith Manawadu
 
 <p align="center">
   <a href="https://discord.com/invite/sasmithx" target="blank"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=5865F2"></a>  

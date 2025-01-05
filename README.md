@@ -172,7 +172,7 @@ const SasmithManawadu = {
   <summary>GitHub Stats:</summary>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasmithx&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=default&langs_count=30" alt="Most Used Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasmithx&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=30" alt="sasmithx" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasmithx&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" /></p>

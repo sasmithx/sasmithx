@@ -134,7 +134,7 @@ const SasmithManawadu = {
     </tr>
     <tr>
       <td><strong>Back End</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=java,python,spring,hibernate,nodejs,laravel,express,maven,gradle,flask" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java,python,spring,hibernate,prisma,nodejs,laravel,express,maven,gradle,flask" /></td>
     </tr>
     <tr>
       <td><strong>Mobile Application Development</strong></td>

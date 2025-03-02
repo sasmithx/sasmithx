@@ -109,6 +109,7 @@ const SasmithManawadu = {
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
   ![Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
   ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
+  ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
   
       
  ## API Platform

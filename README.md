@@ -105,7 +105,7 @@ const SasmithManawadu = {
   ![Windows](https://img.shields.io/badge/Windows-3776AB?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Containerization & Cloud Deployment
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2CA5E0)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
   
 ## IDE & Tools  

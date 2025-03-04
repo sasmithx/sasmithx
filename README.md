@@ -22,7 +22,7 @@
 
 ## About Me
 
-Passionate Software Engineer and Full-Stack Developer, skilled in developing user-friendly front-end interfaces and building robust back-end systems using modern technologies like Spring Boot, React, Node.js,Express.js, and Next.js. With a strong focus on scalability, maintainability, and best practices, I thrive on crafting innovative solutions and staying at the forefront of technology trends to deliver impactful results.
+Passionate Software Engineer and Full-Stack Developer, adept at creating seamless user experiences and developing high-performance backend systems. With a strong focus on scalability, maintainability, and best practices, I specialize in building efficient, user-friendly applications that drive innovation. Continuously exploring emerging technologies, I am committed to delivering impactful solutions that enhance functionality and user engagement.
 
 <p align="center">
   <a href="https://skillicons.dev">

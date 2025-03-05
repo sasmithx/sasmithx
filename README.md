@@ -86,6 +86,7 @@ const SasmithManawadu = {
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
  ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-black?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
  ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+ ![Groovy](https://img.shields.io/badge/apache%20Groovy-000000?style=for-the-badge&logo=apachegroovy&logoColor=4298B8)
  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
  ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
  ![Laravel](https://img.shields.io/badge/Laravel-eb4949?style=for-the-badge&logo=laravel&logoColor=white)

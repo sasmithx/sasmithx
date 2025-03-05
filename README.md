@@ -77,6 +77,7 @@ const SasmithManawadu = {
  ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=3982CE)
  ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
  ![NextJS]( https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+ ![ESlint](https://img.shields.io/badge/eslint-000000?style=for-the-badge&logo=eslint&logoColor=3A33D1)
  ![Hibernate](https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=Hibernate&logoColor=bdaf7a)
  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -88,7 +89,6 @@ const SasmithManawadu = {
  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
  ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
  ![Laravel](https://img.shields.io/badge/Laravel-eb4949?style=for-the-badge&logo=laravel&logoColor=white)
- ![ESlint](https://img.shields.io/badge/eslint-000000?style=for-the-badge&logo=eslint&logoColor=3A33D1)
     
  ## Security
  ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
@@ -116,7 +116,7 @@ const SasmithManawadu = {
   ![VS Code](https://img.shields.io/badge/VS_Code-3776AB?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626)
-  ![Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
+  ![Netbeans](https://img.shields.io/badge/apache%20netbeans-000000?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6)
   ![Laragon](https://img.shields.io/badge/Laragon-000000?style=for-the-badge&logo=Laragon&logoColor=0E83CD)
   ![Conda](https://img.shields.io/badge/conda-000000.svg?&style=for-the-badge&logo=anaconda&logoColor=342B029)
   

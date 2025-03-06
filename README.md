@@ -81,6 +81,7 @@ const SasmithManawadu = {
  ![Hibernate](https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=Hibernate&logoColor=bdaf7a)
  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+ ![PNPM](https://img.shields.io/badge/pnpm-000000?style=for-the-badge&logo=pnpm&logoColor=yellow)
  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)

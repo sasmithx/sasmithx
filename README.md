@@ -136,43 +136,6 @@ const SasmithManawadu = {
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<details>
-  <summary>Languages and Tools:</summary>
- <div align="left">
-  <table>
-    <tr>
-      <td><strong>Programming Languages</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=java,python" /></td>
-    </tr>
-    <tr>
-      <td><strong>Front End</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,vite,vue,nextjs,laravel" /></td>
-    </tr>
-    <tr>
-      <td><strong>Back End</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=java,python,spring,hibernate,prisma,nodejs,laravel,express,maven,gradle,flask" /></td>
-    </tr>
-    <tr>
-      <td><strong>Mobile Application Development</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=react,flutter,dart" /></td>
-    </tr>
-    <tr>
-      <td><strong>Databases</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /></td>
-    </tr>
-    <tr>
-      <td><strong>Frameworks & Libraries</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,nextjs,bootstrap,react,vite,vue,tailwind" /></td>
-    </tr>
-    <tr>
-      <td><strong>IDE & Tools</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,vscode,visualstudio,androidstudio,bash,powershell,arduino,qt,figma,postman,maven,anaconda,pytorch" /></td>
-    </tr>
-
-  </table>
-</div>
-</details>
-
 <br>
 <div align="center">
 <p>

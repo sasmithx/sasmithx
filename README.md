@@ -85,6 +85,7 @@ const SasmithManawadu = {
  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+ [![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcn&logoColor=white)](https://ui.shadcn.com/)
  ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-black?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
  ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
  ![Groovy](https://img.shields.io/badge/apache%20Groovy-000000?style=for-the-badge&logo=apachegroovy&logoColor=4298B8)
@@ -95,6 +96,7 @@ const SasmithManawadu = {
  ## Security
  ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
  ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+ [![Kinde Auth](https://img.shields.io/badge/Kinde_Auth-000000?style=for-the-badge&logo=kinde&logoColor=white)](https://kinde.com/)
   
 ## Database  
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)

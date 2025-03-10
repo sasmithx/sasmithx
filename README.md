@@ -37,7 +37,7 @@ const SasmithManawadu = {
     location: "Sri Lanka",
     education: "Software Engineering & Full Stack Development",
     roles: ["Software Engineer", "Full Stack Developer", "Tech Enthusiast"],
-    currentFocus: ["Web Development", "AI Development", "Data Science"],
+    currentFocus: ["Web Development", "Devops", "AI Development" ],
     communities: {
         name: ["Github","OpenAI"],
         member: ["Github Developer Program", "OpenAI Developer"]

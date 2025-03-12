@@ -127,6 +127,7 @@ const SasmithManawadu = {
   ![Netbeans](https://img.shields.io/badge/apache%20netbeans-000000?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6)
   ![Laragon](https://img.shields.io/badge/Laragon-000000?style=for-the-badge&logo=Laragon&logoColor=0E83CD)
   ![Conda](https://img.shields.io/badge/conda-000000.svg?&style=for-the-badge&logo=anaconda&logoColor=342B029)
+  ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
   
       
  ## API Platform

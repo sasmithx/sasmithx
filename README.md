@@ -114,6 +114,7 @@ const SasmithManawadu = {
 ![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=azure-devops&logoColor=0078D7)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=009639)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
   
 ## IDE & Tools  

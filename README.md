@@ -22,9 +22,9 @@
 
 ## About Me
 
-Passionate Software Engineer and Full-Stack Developer with a proven ability to design, develop, and deploy scalable, high-performance applications. Adept at creating seamless user experiences through intuitive front-end interfaces and architecting robust, secure backend systems that ensure efficiency and reliability. With a strong focus on scalability, maintainability, and industry best practices, I specialize in delivering optimized solutions that drive innovation and business growth. Continuously exploring emerging technologies, I stay ahead of industry trends to enhance system performance and build future-ready applications.
+Passionate Software Engineer and Full-Stack Developer with expertise in designing, developing, and deploying scalable, high-performance applications. I excel at creating intuitive front-end interfaces paired with robust, secure back-end systems, ensuring seamless user experiences while driving innovation and business growth.
 
-Committed to delivering impactful solutions, I focus on improving functionality, user engagement, and overall digital experience. A proactive problem-solver with a keen eye for detail, I thrive in dynamic environments, collaborating with cross-functional teams to develop and refine technology-driven solutions that align with strategic objectives. My dedication to clean architecture, code quality, and performance optimization enables me to create software that is not only efficient but also sustainable and adaptable to evolving business needs.
+I focus on clean architecture, code quality, and performance optimization while continuously exploring emerging technologies. A proactive problem-solver, I thrive in dynamic environments, collaborating with cross-functional teams to develop future-ready solutions that align with strategic objectives and adapt to evolving business needs.
 
 <p align="center">
   <a href="https://skillicons.dev">

@@ -68,6 +68,7 @@ const SasmithManawadu = {
  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
  ![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=DD0031)
+ ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=eb4949)
  ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=593D88)
  ![React-Router]( https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=react-router&logoColor=CA4245)
  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -92,7 +93,6 @@ const SasmithManawadu = {
  ![Groovy](https://img.shields.io/badge/apache%20Groovy-000000?style=for-the-badge&logo=apachegroovy&logoColor=4298B8)
  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
  ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
- ![Laravel](https://img.shields.io/badge/Laravel-eb4949?style=for-the-badge&logo=laravel&logoColor=white)
     
  ## Security
  ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)

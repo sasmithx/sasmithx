@@ -28,7 +28,7 @@ I focus on clean architecture, code quality, and performance optimization while 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,python,pycharm,js,ts,tailwind,react,vite,webstorm,vscode,hibernate,mysql,mongodb,linux" />
+    <img src="https://skillicons.dev/icons?i=java,idea,python,pycharm,js,ts,tailwind,react,vite,angular,webstorm,hibernate,mysql,mongodb,linux" />
   </a>
 </p>
 

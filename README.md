@@ -78,6 +78,7 @@ const SasmithManawadu = {
  ![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F)
  ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=3982CE)
  ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+ ![NestJS](https://img.shields.io/badge/nestjs-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E)
  ![NextJS]( https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
  ![Electron](https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=9FEAF9)
  ![ESlint](https://img.shields.io/badge/eslint-000000?style=for-the-badge&logo=eslint&logoColor=3A33D1)

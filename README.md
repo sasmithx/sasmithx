@@ -59,7 +59,6 @@ const SasmithManawadu = {
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   
   
  ## Frameworks and Libraries
@@ -67,14 +66,11 @@ const SasmithManawadu = {
  ![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=6DB33F)
  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
  ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=DD0031)
- ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=eb4949)
  ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=593D88)
  ![React-Router]( https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=react-router&logoColor=CA4245)
  ![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
  ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
  ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=FFD62E)
- ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B)
  ![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F)
  ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=3982CE)
  ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)

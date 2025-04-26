@@ -155,8 +155,8 @@ const SasmithManawadu = {
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624" />
     <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/nestjs-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
     <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F" />
-    <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
     <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=purple" />
     <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
     	

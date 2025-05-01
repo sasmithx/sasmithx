@@ -52,94 +52,101 @@ const SasmithManawadu = {
 
 ## Technical Expertise
 
-## Language Stack
-  ![Java](https://img.shields.io/badge/java-orange.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ## Language Stack
+ ![Java](https://img.shields.io/badge/java-orange.svg?style=for-the-badge&logo=java&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   
-  
- ## Frameworks and Libraries
- ![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-000000?style=for-the-badge&logo=jakarta-ee&logoColor=white)
- ![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=6DB33F)
- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
+
+ ## Front-End Development
  ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+ ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=FFD62E)
  ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=593D88)
  ![React-Router]( https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=react-router&logoColor=CA4245)
- ![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
- ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=FFD62E)
- ![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F)
- ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=3982CE)
- ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
- ![NestJS](https://img.shields.io/badge/nestjs-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E)
  ![NextJS]( https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
  ![Electron](https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=9FEAF9)
- ![ESlint](https://img.shields.io/badge/eslint-000000?style=for-the-badge&logo=eslint&logoColor=3A33D1)
- ![Hibernate](https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=Hibernate&logoColor=bdaf7a)
  ![jQuery](https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=0769AD)
- ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
- ![PNPM](https://img.shields.io/badge/pnpm-000000?style=for-the-badge&logo=pnpm&logoColor=yellow)
- ![Yarn](https://img.shields.io/badge/Yarn-000000?style=for-the-badge&logo=yarn&logoColor=2C8EBB)
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
- ![NativeWind](https://img.shields.io/badge/NativeWind-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
  ![MaterialUI](https://img.shields.io/badge/Material%20UI-000000?style=for-the-badge&logo=mui&logoColor=007FFF)
  ![ChakraUI](https://img.shields.io/badge/Chakra--UI-000000?style=for-the-badge&logo=chakra-ui&logoColor=319795)
  [![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcn&logoColor=white)](https://ui.shadcn.com/)
+
+ ## Back-End Development
+ ![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-000000?style=for-the-badge&logo=jakarta-ee&logoColor=white)
+ ![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=6DB33F)
+ ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
+ ![Hibernate](https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=Hibernate&logoColor=bdaf7a)
+ ![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+ ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+ ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=3982CE)
+ ![NestJS](https://img.shields.io/badge/nestjs-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+
+ ## Mobile Development
+ ![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+ ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
+ ![NativeWind](https://img.shields.io/badge/NativeWind-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+ ## Build Automation & Dependency Management
+ ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+ ![PNPM](https://img.shields.io/badge/pnpm-000000?style=for-the-badge&logo=pnpm&logoColor=yellow)
+ ![Yarn](https://img.shields.io/badge/Yarn-000000?style=for-the-badge&logo=yarn&logoColor=2C8EBB)
  ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-black?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
  ![Gradle](https://img.shields.io/badge/gradle-000000?style=for-the-badge&logo=gradle&logoColor=02303A)
  ![Groovy](https://img.shields.io/badge/apache%20Groovy-000000?style=for-the-badge&logo=apachegroovy&logoColor=4298B8)
+ 
+ ## Scientific Computing & Data Analysis Libraries
  ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=2C2D72)
  ![Numpy](https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy&logoColor=777BB4)
     
  ## Security
- ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+ ![Spring Security](https://img.shields.io/badge/Spring_Security-000000?style=for-the-badge&logo=Spring-Security&logoColor=6DB33F)
  ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
  [![Kinde Auth](https://img.shields.io/badge/Kinde_Auth-000000?style=for-the-badge&logo=kinde&logoColor=white)](https://kinde.com/)
   
-## Database  
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+ ## Database  
+ ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+ ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
   
-## Operating Systems
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-3776AB?style=for-the-badge&logo=windows&logoColor=white)
+ ## Operating Systems
+ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+ ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+ ![Windows](https://img.shields.io/badge/Windows-3776AB?style=for-the-badge&logo=windows&logoColor=white)
 
-## Containerization & Cloud Deployment
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2CA5E0)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+ ## Containerization & Cloud Deployment
+ ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2CA5E0)
+ ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+ ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
   
-## IDE & Tools  
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-  ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
-  ![PHPStorm](http://img.shields.io/badge/-PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-3776AB?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626)
-  ![Colab](https://img.shields.io/badge/Colab-000000?style=for-the-badge&logo=googlecolab&color=000000)
-  ![Netbeans](https://img.shields.io/badge/apache%20netbeans-000000?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6)
-  ![ArduinoIDE](https://img.shields.io/badge/Arduino_IDE-000000?style=for-the-badge&logo=arduino&logoColor=00979D)
-  ![Laragon](https://img.shields.io/badge/Laragon-000000?style=for-the-badge&logo=Laragon&logoColor=0E83CD)
-  ![Conda](https://img.shields.io/badge/conda-000000.svg?&style=for-the-badge&logo=anaconda&logoColor=342B029)
-  ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+ ## IDE & Tools  
+ ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+ ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+ ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+ ![PHPStorm](http://img.shields.io/badge/-PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+ ![VS Code](https://img.shields.io/badge/VS_Code-3776AB?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ ![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio&logoColor=white)
+ ![Jupyter](https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626)
+ ![Colab](https://img.shields.io/badge/Colab-000000?style=for-the-badge&logo=googlecolab&color=000000)
+ ![Netbeans](https://img.shields.io/badge/apache%20netbeans-000000?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6)
+ ![ArduinoIDE](https://img.shields.io/badge/Arduino_IDE-000000?style=for-the-badge&logo=arduino&logoColor=00979D)
+ ![Laragon](https://img.shields.io/badge/Laragon-000000?style=for-the-badge&logo=Laragon&logoColor=0E83CD)
+ ![Conda](https://img.shields.io/badge/conda-000000.svg?&style=for-the-badge&logo=anaconda&logoColor=342B029)
+ ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
   
       
  ## API Platform
-   ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
-   ![Insomnia](https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=Insomnia&logoColor=5849be)
-   ![Axios](https://img.shields.io/badge/axios-black?&style=for-the-badge&logo=axios&logoColor=671ddf)
-   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+ ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
+ ![Insomnia](https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=Insomnia&logoColor=5849be)
+ ![Axios](https://img.shields.io/badge/axios-black?&style=for-the-badge&logo=axios&logoColor=671ddf)
+ ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 
-## VCS
-   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ ## VCS
+ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
 <div align="center">

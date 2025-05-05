@@ -114,6 +114,7 @@ const SasmithManawadu = {
  ## Operating Systems
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+ ![Kali](	https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
  ![Windows](https://img.shields.io/badge/Windows-3776AB?style=for-the-badge&logo=windows&logoColor=white)
 
  ## Containerization & Cloud Deployment

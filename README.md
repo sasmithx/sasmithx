@@ -144,8 +144,8 @@ const SasmithManawadu = {
   
       
  ## API Platform
- ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
- ![Axios](https://img.shields.io/badge/axios-black?&style=for-the-badge&logo=axios&logoColor=671ddf)
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+ ![Axios](https://img.shields.io/badge/axios-F02E65?&style=for-the-badge&logo=axios&logoColor=white)
  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 
  ## VCS

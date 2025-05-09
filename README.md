@@ -97,8 +97,8 @@ const SasmithManawadu = {
  ![Groovy](https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
  
  ## Scientific Computing & Data Analysis Libraries
- ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=2C2D72)
- ![Numpy](https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy&logoColor=777BB4)
+ ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+ ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
     
  ## Security
  ![Spring Security](https://img.shields.io/badge/Spring_Security-000000?style=for-the-badge&logo=Spring-Security&logoColor=6DB33F)

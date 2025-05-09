@@ -105,10 +105,13 @@ const SasmithManawadu = {
  ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
  [![Kinde Auth](https://img.shields.io/badge/Kinde_Auth-000000?style=for-the-badge&logo=kinde&logoColor=white)](https://kinde.com/)
   
- ## Database  
+ ## Database Management & ORMs  
  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+ ![Hibernate](https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=Hibernate&logoColor=BCAE79)
+ ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=3982CE)
+ 
   
  ## Operating Systems
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)

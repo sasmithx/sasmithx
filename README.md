@@ -76,7 +76,7 @@ const SasmithManawadu = {
  ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
  ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
  ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
- ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+ 
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
  ![MaterialUI](https://img.shields.io/badge/Material%20UI-000000?style=for-the-badge&logo=mui&logoColor=007FFF)
@@ -130,7 +130,9 @@ const SasmithManawadu = {
  ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
  ![PHPStorm](http://img.shields.io/badge/-PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
  ![VS Code](https://img.shields.io/badge/VS_Code-3776AB?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
  ![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio&logoColor=white)
+ 
  ![Jupyter](https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626)
  ![Colab](https://img.shields.io/badge/Colab-000000?style=for-the-badge&logo=googlecolab&color=000000)
  ![Netbeans](https://img.shields.io/badge/apache%20netbeans-000000?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6)

@@ -134,12 +134,12 @@ const SasmithManawadu = {
  ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
  ![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio&logoColor=white)
  
- ![Jupyter](https://img.shields.io/badge/Jupyter-000000.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626)
- ![Colab](https://img.shields.io/badge/Colab-000000?style=for-the-badge&logo=googlecolab&color=000000)
- ![Netbeans](https://img.shields.io/badge/apache%20netbeans-000000?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6)
- ![ArduinoIDE](https://img.shields.io/badge/Arduino_IDE-000000?style=for-the-badge&logo=arduino&logoColor=00979D)
- ![Laragon](https://img.shields.io/badge/Laragon-000000?style=for-the-badge&logo=Laragon&logoColor=0E83CD)
- ![Conda](https://img.shields.io/badge/conda-000000.svg?&style=for-the-badge&logo=anaconda&logoColor=342B029)
+ ![Jupyter](https://img.shields.io/badge/Jupyter-F37726.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+ ![Colab](https://img.shields.io/badge/Colab-F1a146?style=for-the-badge&logo=googlecolab&color=white)
+ ![Netbeans](https://img.shields.io/badge/apache%20netbeans-3376BC?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
+ ![ArduinoIDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+ ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
+ ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
  ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
   
       

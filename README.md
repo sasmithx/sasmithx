@@ -84,7 +84,7 @@ const SasmithManawadu = {
  ![ShadCN UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
  ## Mobile Development
- ![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+ ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
  ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
  ![NativeWind](https://img.shields.io/badge/NativeWind-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 

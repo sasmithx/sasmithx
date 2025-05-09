@@ -11,7 +11,7 @@
   <a href="https://hashnode.com/@Sasmithx" target="blank"><img src="https://img.shields.io/badge/Hashnode-black?style=for-the-badge&logo=hashnode&logoColor=2962FF"></a>
   <a href="https://medium.com/@888sasmithmanawadu" target="blank"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="" target="blank"><img src="https://img.shields.io/badge/Slack-black?style=for-the-badge&logo=slack&logoColor=4A154B"></a>  
-  <a href="https://x.com/Sasmithx8?t=zzSsf5la1d5qf66fxRe17A&s=09" target="blank"><img src="https://img.shields.io/badge/Follow @sasmithx8-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://x.com/sasmithx_?t=zzSsf5la1d5qf66fxRe17A&s=09" target="blank"><img src="https://img.shields.io/badge/Follow @sasmithx_-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />  
   <a href="mailto:888sasmithmanawadu@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail">

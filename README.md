@@ -62,13 +62,11 @@ const SasmithManawadu = {
 
  ## Back-End Development
  ![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-000000?style=for-the-badge&logo=jakarta-ee&logoColor=white)
- ![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=6DB33F)
- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
- ![Hibernate](https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=Hibernate&logoColor=bdaf7a)
- ![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+ ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+ ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=000000)
  ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
- ![NestJS](https://img.shields.io/badge/nestjs-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E)
- ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=3982CE) 
+ ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
  ## Front-End Development
  ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)

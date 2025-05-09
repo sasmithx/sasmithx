@@ -89,12 +89,12 @@ const SasmithManawadu = {
  ![NativeWind](https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
  ## Build Automation & Dependency Management
- ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
- ![PNPM](https://img.shields.io/badge/pnpm-000000?style=for-the-badge&logo=pnpm&logoColor=yellow)
- ![Yarn](https://img.shields.io/badge/Yarn-000000?style=for-the-badge&logo=yarn&logoColor=2C8EBB)
- ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-black?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
- ![Gradle](https://img.shields.io/badge/gradle-000000?style=for-the-badge&logo=gradle&logoColor=02303A)
- ![Groovy](https://img.shields.io/badge/apache%20Groovy-000000?style=for-the-badge&logo=apachegroovy&logoColor=4298B8)
+ ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+ ![PNPM](https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white)
+ ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+ ![Apache Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+ ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+ ![Groovy](https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
  
  ## Scientific Computing & Data Analysis Libraries
  ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=2C2D72)

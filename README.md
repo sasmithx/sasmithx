@@ -139,7 +139,7 @@ const SasmithManawadu = {
  ![Netbeans](https://img.shields.io/badge/apache%20netbeans-3376BC?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
  ![ArduinoIDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
  ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
- ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+ ![Conda](https://img.shields.io/badge/conda-6DA55F.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
  ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
   
       

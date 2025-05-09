@@ -120,9 +120,10 @@ const SasmithManawadu = {
  ![Windows](https://img.shields.io/badge/Windows-3776AB?style=for-the-badge&logo=windows&logoColor=white)
 
  ## Containerization & Cloud Deployment
- ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2CA5E0)
+ ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
  ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+ ![Vercel](https://img.shields.io/badge/GitHub%20Pages-000000?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
   
  ## IDE & Tools  
  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)

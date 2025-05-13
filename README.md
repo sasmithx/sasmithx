@@ -120,6 +120,10 @@ const SasmithManawadu = {
  ![Kali](	https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
  ![Windows](https://img.shields.io/badge/Windows-3776AB?style=for-the-badge&logo=windows&logoColor=white)
 
+ ## Design & Prototype
+ ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+ ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
  ## Containerization & Cloud Deployment
  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
  ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
@@ -141,7 +145,6 @@ const SasmithManawadu = {
  ![ArduinoIDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
  ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
  ![Conda](https://img.shields.io/badge/conda-6DA55F.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
- ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
   
       
  ## API Platform

@@ -28,7 +28,7 @@ I focus on clean architecture, code quality, and performance optimization while 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,python,pycharm,js,ts,tailwind,react,nextjs,nestjs,webstorm,hibernate,mysql,mongodb,linux" />
+    <img src="https://skillicons.dev/icons?i=java,idea,python,pycharm,js,ts,tailwind,react,angular,nextjs,nestjs,webstorm,hibernate,mysql,mongodb" />
   </a>
 </p>
 
@@ -75,6 +75,7 @@ const SasmithManawadu = {
  ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=FFD62E)
  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
  ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+ ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
  ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
  ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
  

@@ -148,7 +148,10 @@ const SasmithManawadu = {
  ![ArduinoIDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
  ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
  ![Conda](https://img.shields.io/badge/conda-6DA55F.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-  
+
+ ## Testing & Quality Assurance
+ ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
+ ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
       
  ## API Platform
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)

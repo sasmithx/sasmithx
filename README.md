@@ -152,6 +152,7 @@ const SasmithManawadu = {
       
  ## API Platform
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+ ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
  ![Axios](https://img.shields.io/badge/axios-F02E65?&style=for-the-badge&logo=axios&logoColor=white)
  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 

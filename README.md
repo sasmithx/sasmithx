@@ -69,7 +69,7 @@ const SasmithManawadu = {
  ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
  ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
  ![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
- ![Rust](https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=black)
+ ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white)
 
  ## Front-End Development
 

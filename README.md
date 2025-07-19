@@ -69,6 +69,7 @@ const SasmithManawadu = {
  ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
  ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
  ![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+ ![Rust](https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=black)
 
  ## Front-End Development
 
@@ -103,6 +104,7 @@ const SasmithManawadu = {
  ## Scientific Computing & Data Analysis Libraries
  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
  ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+ ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white)
     
  ## Security
  ![Spring Security](https://img.shields.io/badge/Spring_Security-000000?style=for-the-badge&logo=Spring-Security&logoColor=6DB33F)

@@ -87,6 +87,7 @@ const SasmithManawadu = {
  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
  ![GSAP](https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=93CF2B)
  ![MaterialUI](https://img.shields.io/badge/Material%20UI-000000?style=for-the-badge&logo=mui&logoColor=007FFF)
+ ![DaisyUI](https://img.shields.io/badge/daisyUI-000000?style=for-the-badge&logo=daisyui&logoColor=1ad1a5)
 
  ## Mobile Development
  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

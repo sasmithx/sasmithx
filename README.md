@@ -39,8 +39,8 @@ const SasmithManawadu = {
     roles: ["Software Engineer", "Full Stack Developer", "Tech Enthusiast"],
     currentFocus: ["Web Development", "DevOps", "AI Development" ],
     communities: {
-        name: ["Github","OpenAI"],
-        member: ["Github Developer Program", "OpenAI Developer"]
+        name: ["INTELLEON", "SOFTCARE TECHNOLOGIES"],
+        member: ["Software Enginner Intern", "Associate Software Engineer"]
     },
     lifePhilosophy: "Delivering scalable and impactful solutions to drive innovation"
 };

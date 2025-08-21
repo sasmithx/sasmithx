@@ -35,7 +35,7 @@ I focus on clean architecture, code quality, and performance optimization while 
 ```typescript
 const SasmithManawadu = {
     location: "Sri Lanka",
-    education: "Software Engineering & Full Stack Development",
+    education: "BSc(Hons) Computer Science & Software Engineering Higher Diploma",
     roles: ["Software Engineer", "Full Stack Developer", "Tech Enthusiast"],
     currentFocus: ["Web Development", "DevOps", "AI Development" ],
     communities: {

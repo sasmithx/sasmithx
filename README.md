@@ -40,7 +40,7 @@ const SasmithManawadu = {
     currentFocus: ["Web Development", "DevOps", "AI Development" ],
     communities: {
         name: ["INTELLEON", "SOFTCARE TECHNOLOGIES"],
-        member: ["Software Enginner Intern", "Associate Software Engineer"]
+        member: ["Software Engineer Intern", "Associate Software Engineer"]
     },
     lifePhilosophy: "Delivering scalable and impactful solutions to drive innovation"
 };

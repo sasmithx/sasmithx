@@ -39,8 +39,8 @@ const SasmithManawadu = {
     roles: ["Software Engineer Intern", "Full Stack Developer", "DevOps Engineer"],
     currentFocus: ["Web Development", "DevOps", "AI Development" ],
     communities: {
-        name: ["INTELLEON", "SOFTCARE TECHNOLOGIES"],
-        member: ["Software Engineer Intern", "Associate Software Engineer"]
+        name: ["INTELLEON", "Amazon Web Services(AWS)"],
+        member: ["Software Engineer Intern", "Certified DevOps Engineer"]
     },
     lifePhilosophy: "Delivering scalable and impactful solutions to drive innovation"
 };

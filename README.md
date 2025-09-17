@@ -22,7 +22,7 @@
 
 ## About Me
 
-Passionate Software Engineer and Full-Stack Developer with expertise in designing, developing, and deploying scalable, high-performance applications. I excel at creating intuitive front-end interfaces paired with robust, secure back-end systems, ensuring seamless user experiences while driving innovation and business growth.
+Passionate Software Engineer, Full-Stack Developer, and DevOps Engineer currently reading for a **BSc (Hons) Computer Science** at the [University of Greater Manchester, UK](https://greatermanchester.ac.uk/),  I specialize in designing, developing, and deploying scalable, high-performance applications. I excel at creating intuitive front-end interfaces paired with robust, secure back-end systems, while also leveraging DevOps practices to ensure smooth deployment pipelines, cloud infrastructure management, and system reliability—driving both seamless user experiences and sustainable business growth!
 
 I focus on clean architecture, code quality, and performance optimization while continuously exploring emerging technologies. A proactive problem-solver, I thrive in dynamic environments, collaborating with cross-functional teams to develop future-ready solutions that align with strategic objectives and adapt to evolving business needs.
 

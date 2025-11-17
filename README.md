@@ -102,7 +102,6 @@ const SasmithManawadu = {
  ## Security
  ![Spring Security](https://img.shields.io/badge/Spring_Security-000000?style=for-the-badge&logo=Spring-Security&logoColor=6DB33F)
  ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
- ![Kinde Auth](https://img.shields.io/badge/Kinde_Auth-000000?style=for-the-badge&logo=kinde&logoColor=white)
   
  ## Database Management & ORMs  
  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)

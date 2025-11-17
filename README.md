@@ -146,18 +146,15 @@ const SasmithManawadu = {
  ![Colab](https://img.shields.io/badge/Colab-F1a146?style=for-the-badge&logo=googlecolab&color=white)
  ![Netbeans](https://img.shields.io/badge/apache%20netbeans-3376BC?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
  ![ArduinoIDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
- ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
- ![Conda](https://img.shields.io/badge/conda-6DA55F.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 
  ## Testing & Quality Assurance
  ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
  ![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=C21325)
  ![Mocha](https://img.shields.io/badge/Mocha-000000?style=for-the-badge&logo=Mocha&logoColor=8D6748)
       
- ## API Platform
+ ## API Testing & Automation
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
- ![Axios](https://img.shields.io/badge/axios-F02E65?&style=for-the-badge&logo=axios&logoColor=white) 
 
  ## VCS
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)

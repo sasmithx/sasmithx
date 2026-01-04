@@ -35,12 +35,12 @@ I focus on clean architecture, code quality, and performance optimization while 
 ```typescript
 const SasmithManawadu = {
     location: "Sri Lanka",
-    education: "BSc(Hons) Computer Science & Software Engineering Higher Diploma",
-    roles: ["Software Engineer Intern", "Full Stack Developer", "DevOps Engineer"],
+    education: "BSc(Hons) Computer Science", "Software Engineering Higher Diploma",
+    roles: ["Software Engineer", "DevOps Engineer"],
     currentFocus: ["Web Development", "DevOps", "AI Development" ],
     communities: {
-        name: ["INTELLEON", "Amazon Web Services(AWS)"],
-        member: ["Software Engineer Intern", "Certified DevOps Engineer"]
+        name: ["Oracle", "Amazon Web Services(AWS)"],
+        member: ["Certified DevOps Professional", "Certified DevOps Engineer"]
     },
     lifePhilosophy: "Delivering scalable and impactful solutions to drive innovation"
 };

@@ -145,6 +145,9 @@ const SasmithManawadu = {
  ![Netbeans](https://img.shields.io/badge/apache%20netbeans-3376BC?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
  ![ArduinoIDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+ ## Workflow Automation & Integrations
+ ![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto)
+
  ## Testing & Quality Assurance
  ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
  ![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=C21325)
